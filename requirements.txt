@@ -1,1 +1,9 @@
-requests
+certifi==2026.5.20
+charset-normalizer==3.4.7
+idna==3.18
+numpy @ file:///home/builder/.termux-build/python-numpy/src/dist/numpy-2.4.4-cp313-cp313-android_aarch64.whl#sha256=b9a4731d6bfc5c469dd2fd61e327c90748ee544201108b102775549269faeda3
+pandas @ file:///home/builder/.termux-build/python-pandas/src/dist/pandas-3.0.3-cp313-cp313-android_aarch64.whl#sha256=397f57a0e2c0372db19c2a681d4d32983d278fdef4e4cbd6d055d746e457a516
+python-dateutil==2.9.0.post0
+requests==2.34.2
+six==1.17.0
+urllib3==2.7.0
